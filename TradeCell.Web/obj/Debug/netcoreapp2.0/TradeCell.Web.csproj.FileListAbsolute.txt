@@ -14,7 +14,6 @@ F:\Trabajos\TradeCell\TradeCell.Web\bin\Debug\netcoreapp2.0\TradeCell.Web.runtim
 F:\Trabajos\TradeCell\TradeCell.Web\bin\Debug\netcoreapp2.0\TradeCell.Web.runtimeconfig.dev.json
 F:\Trabajos\TradeCell\TradeCell.Web\bin\Debug\netcoreapp2.0\TradeCell.Web.dll
 F:\Trabajos\TradeCell\TradeCell.Web\bin\Debug\netcoreapp2.0\TradeCell.Web.pdb
-F:\Trabajos\TradeCell\TradeCell.Web\obj\Debug\netcoreapp2.0\TradeCell.Web.csprojAssemblyReference.cache
 F:\Trabajos\TradeCell\TradeCell.Web\obj\Debug\netcoreapp2.0\TradeCell.Web.csproj.CoreCompileInputs.cache
 F:\Trabajos\TradeCell\TradeCell.Web\obj\Debug\netcoreapp2.0\TradeCell.Web.AssemblyInfoInputs.cache
 F:\Trabajos\TradeCell\TradeCell.Web\obj\Debug\netcoreapp2.0\TradeCell.Web.AssemblyInfo.cs
