@@ -1,0 +1,126 @@
+﻿/*
+    PATRON DE COLORES
+*/
+$texto: #111111;
+$principal: #12AFAF;
+$secundario: #009500;
+
+html {
+    font-size: 15px;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: $texto;
+}
+
+.bienvenidos {
+    background: url("../images/fondo-encabezado.jpg") no-repeat center top;
+    color: #fff;
+    background-size: cover;
+    background-attachment: fixed !important;
+    height: 100vh; /*para motrar en toda la pantalla del dispositivo*/
+    display: flex;
+    flex-direction: column;
+}
+
+.encabezado {
+    background: $texto;
+    color: #fff;
+    padding: .5rem 0;
+    transition: all .5s ease;
+}
+
+.encabezado.fondo-menu {
+    background: #064e4e;
+    padding: .8rem 0;
+}
+
+.encabezado .container {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.encabezado .logo img {
+    width: 150px;
+    height: auto;
+}
+
+.texto-encabezado {
+    flex: 1 1 auto;
+    display: flex;
+    align-items: center;
+}
+
+.boton-menu {
+    border: 0;
+    font-size: 2rem;
+    margin: 0;
+    padding: 0 0.5rem;
+    background: transparent;
+    color: #fff;
+}
+
+.boton-menu:focus {
+    outline: 0;
+}
+
+//NAVBAR
+#menu-principal {
+    flex: 1 1 auto;
+}
+
+#menu-principal ul {
+    padding: 0;
+    list-style: none;
+    margin: 1rem 0 0 0;
+}
+
+#menu-principal ul li a {
+    display: block;
+    padding: .5rem 0;
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+    border-top: 1px solid #8c8888;
+    text-decoration: none;
+}
+
+#menu-principal ul li a:hover,
+#menu-principal ul li.active a {
+    color: $principal;
+}
+/**********/
+
+/*
+    EMPIEZAN LAS MEDIAS QUERIES
+*/
+@media(min-width:768px) {
+    #menu-principal {
+        height: auto !important;
+        display: block;
+        flex: 0 1 auto;
+        order: 1;
+        margin-left: auto;
+    }
+
+    #menu-principal ul {
+        display: flex;
+        margin: 0 0 0 0;
+    }
+
+    #menu-principal ul li a {
+        padding: .8rem;
+        text-transform: capitalize;
+        border-top: 0px;
+        border-bottom: 4px solid transparent;
+        transition: all .5s ease;
+    }
+
+    #menu-principal ul li.active a,
+    #menu-principal ul li:hover a {
+        color: $principal;
+        border-bottom: 4px solid $principal;
+    }
+}
