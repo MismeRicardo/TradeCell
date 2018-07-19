@@ -1,0 +1,9 @@
+F:\Trabajos\TradeCell\TradelCell.Data\bin\Debug\netcoreapp2.0\TradelCell.Data.deps.json
+F:\Trabajos\TradeCell\TradelCell.Data\bin\Debug\netcoreapp2.0\TradelCell.Data.dll
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.csprojAssemblyReference.cache
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.csproj.CoreCompileInputs.cache
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.AssemblyInfoInputs.cache
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.AssemblyInfo.cs
+F:\Trabajos\TradeCell\TradelCell.Data\bin\Debug\netcoreapp2.0\TradelCell.Data.pdb
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.dll
+F:\Trabajos\TradeCell\TradelCell.Data\obj\Debug\netcoreapp2.0\TradelCell.Data.pdb
